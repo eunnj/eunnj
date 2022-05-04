@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunnj&count_bg=%23C2DBFF&title_bg=%23B8B8B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/eunnj)
+[![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunnj&count_bg=%23C2DBFF&title_bg=%23B8B8B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/eunnj)
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
