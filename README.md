@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 [![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunnj&count_bg=%23C2DBFF&title_bg=%23B8B8B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/eunnj)
 
-## 📒blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://yeoeun-ji.tistory.com/)](https://yeoeun-ji.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://yeoeun-ji.tistory.com/)](https://yeoeun-ji.tistory.com/)
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
