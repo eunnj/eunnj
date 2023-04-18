@@ -1,4 +1,5 @@
-# yeo eunji
+<!-- # yeo eunji -->
+<h3 align="center"> Hi there 👋 </h3>
 <!--
 **eunnj/eunnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +28,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  -->
+ 
+<div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunnj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunnj&show_icons=true&theme=radical)
 
+</div>
